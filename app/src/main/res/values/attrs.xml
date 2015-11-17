@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="points">
+        <attr name="boardBackground" format="color" />
+
+        <attr name="pointColor" format="color" />
+        <attr name="pointCount" format="integer" />
+        <attr name="pointRadius" format="integer" />
+        <attr name="pointType" format="string" />
+
+        <attr name="lineColor" format="color" />
+
+        <attr name="speedBarrierX" format="integer" />
+        <attr name="speedBarrierY" format="integer" />
+
+        <attr name="distanceBarrier" format="integer" />
+
+        <attr name="touchToScatter" format="boolean" />
+        <attr name="parallaxSameDirection" format="boolean" />
+    </declare-styleable>
+</resources>
